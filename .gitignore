@@ -19,3 +19,5 @@ override.tf
 override.tf.json
 .vscode/
 .idea/
+
+.DS_Store
